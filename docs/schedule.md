@@ -22,7 +22,10 @@ Week|Date      |Description
 - Our office for that day: E10-3102 (Navet, floor 3, room 102)
 - Goal: 
   - know what to do
+    - register at different HPC centers?
   - be able to do a Pull Request to a GitHub repository
+  - second project: R programming or an AI conference?
+    - if AI conference, register today
 
 Start|What
 -----|-----
