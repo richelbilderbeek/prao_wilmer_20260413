@@ -19,13 +19,13 @@ Week|Date      |Description
 
 ## Monday 2026-10-13
 
-- Our office for that day: E10-3102 (Navet, floor 3, room 102)
+- Where: [E10:3102](https://link.mazemap.com/DnjpfdDW) (Navet, floor 3, room 102)
 - Goal:
     - know what to do
         - register at different HPC centers?
     - be able to do a Pull Request to a GitHub repository
     - second project: R programming or an AI conference?
-        - if AI conference, register today
+        - if AI conference, register today or tomorrow
 
 Start|What
 -----|-----
@@ -52,6 +52,10 @@ Start|What
 16:00|Done
 
 ## Tuesday 2026-10-14
+
+- Where: [E10:2308](https://link.mazemap.com/jGeDVWFf)
+- Todo:
+  - register today for the AI conference
 
 Start|What
 -----|-----
@@ -152,6 +156,7 @@ Start|What
 16:00|Done
 
 ## Tuesday 2026-10-21
+
 
 Start|What
 -----|-----
