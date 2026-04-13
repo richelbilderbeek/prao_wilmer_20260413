@@ -19,6 +19,14 @@ See [office](office.md) how to get there
 
 Yes.
 
+## What happens when I am early?
+
+You will make a great first impression and the PRAO will end earlier:
+that is one of the features of working at NBIS: we ourselves can determine
+when we work.
+
 ## What happens when I am late?
 
-You will make a bad first impression and the PRAO will end later.
+You will make a bad first impression and the PRAO will end later:
+that is one of the features of working at NBIS: we ourselves can determine
+when we work.
