@@ -131,7 +131,7 @@ Start|What
 15:45|Informal reflection
 16:00|Done
 
-## 2026-10-20
+## Monday 2026-10-20
 
 Start|What
 -----|-----
@@ -151,16 +151,16 @@ Start|What
 15:45|Informal reflection
 16:00|Done
 
-## 2026-10-21
+## Tuesday 2026-10-21
 
 Start|What
 -----|-----
-9:00 |Work on project
-10:00|Break
-10:15|Work on project
-11:00|Break
-11:15|Work on project
-12:00|Break
+9:00 |Work on project (Richel away)
+10:00|Break (Richel away)
+10:15|Work on project (Richel away)
+11:00|Break (Richel away)
+11:15|Work on project (Richel away)
+12:00|Break (Richel away)
 12:15|Work on project
 13:00|Break
 13:15|Work on project
