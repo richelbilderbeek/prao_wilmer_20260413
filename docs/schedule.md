@@ -9,10 +9,10 @@ Week|Date      |Description
 .   |2026-10-15|.
 .   |2026-10-16|.
 .   |2026-10-17|.
-17  |2026-10-20|Assist teaching
+17  |2026-10-20|Assist teaching [NAISS 'Intro to HPC Python' Day 1](https://uppmax.github.io/naiss_intro_python/)
 .   |2026-10-21|Prepare or follow course
-.   |2026-10-22|Assist teaching, follow rest of course or second project
-.   |2026-10-23|Follow rest and/of course or second project
+.   |2026-10-22|Assist teaching [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs), follow rest of course or second project
+.   |2026-10-23|AI meeting, then follow rest and/of course or second project
 .   |2026-10-24|Second project
 
 ## Detailed schedule
