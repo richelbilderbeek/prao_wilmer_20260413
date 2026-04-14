@@ -59,6 +59,7 @@ Olle
 Wilmer
 HPC
 Todo
+Mimer
 matplotlib
 seaborn
 NAISS
