@@ -166,7 +166,7 @@ Start|What
 15:45|Informal reflection
 16:00|Done
 
-## 2026-10-22
+## Wednesday 2026-10-22
 
 Start|What
 -----|-----
@@ -182,7 +182,7 @@ Start|What
 15:45|Informal reflection
 16:00|Done
 
-## 2026-10-23
+## Thursday 2026-10-23
 
 Start|What
 -----|-----
@@ -202,7 +202,7 @@ Start|What
 15:45|Informal reflection
 16:00|Done
 
-## 2026-10-24
+## Friday 2026-10-24
 
 Start|What
 -----|-----
