@@ -203,11 +203,11 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Work on project
+9:00 |AI Factory Mimer kick-off
 10:00|Break
-10:15|Work on project
+10:15|AI Factory Mimer kick-off
 11:00|Break
-11:15|Work on project
+11:15|AI Factory Mimer kick-off
 12:00|Break
 12:15|Work on project
 13:00|Break
