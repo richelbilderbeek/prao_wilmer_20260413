@@ -142,20 +142,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Work on project
-10:00|Break
-10:15|Work on project
-11:00|Break
-11:15|Work on project
-12:00|Break
-12:15|Work on project
-13:00|Break
-13:15|Work on project
-14:00|Break
-14:15|Work on project
-15:00|Break
-15:15|Work on project
-15:45|Informal reflection
+9:00 |Help teach [NAISS 'Intro to HPC Python' Day 1](https://uppmax.github.io/naiss_intro_python/)
 16:00|Done
 
 ## Tuesday 2026-10-21
@@ -183,11 +170,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Work on project
-10:00|Break
-10:15|Work on project
-11:00|Break
-11:15|Work on project
+9:00 |Help teach [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs)
 12:00|Break
 12:15|Work on project
 13:00|Break
