@@ -55,10 +55,10 @@ Start|What
 
 - Where: [E10:2308](https://link.mazemap.com/jGeDVWFf)
 - Todo:
-  - [Register today for the AI conference](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/4)
-  - [Check how to load pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1)
-  - [Check how to load matplotlib](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2)
-  - [Check how to load seaborn](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3)
+    - [Register today for the AI conference](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/4)
+    - [Check how to load pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1)
+    - [Check how to load matplotlib](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2)
+    - [Check how to load seaborn](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3)
 
 Start|What
 -----|-----
