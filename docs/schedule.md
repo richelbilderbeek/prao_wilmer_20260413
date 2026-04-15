@@ -108,6 +108,8 @@ Start|What
 
 ## Thursday 2026-10-16
 
+- Bring a headset
+
 Start|What
 -----|-----
 9:00 |Work on project
@@ -122,11 +124,13 @@ Start|What
 14:00|Break
 14:15|Work on project
 15:00|Break
-15:15|Work on project
+15:15|[Prepare for online teaching](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/10)
 15:45|Informal reflection
 16:00|Done
 
 ## Friday 2026-10-17
+
+- Bring a headset
 
 Start|What
 -----|-----
@@ -136,7 +140,7 @@ Start|What
 11:00|Break
 11:15|Work on project
 12:00|Break
-12:15|Work on project
+12:15|. 
 13:00|Break (Richel away)
 13:15|[Do the 'Basic Python' part of HPC Python Day 1](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/7) (Richel away)
 14:00|Break (Richel away)
@@ -147,6 +151,9 @@ Start|What
 16:00|Done
 
 ## Monday 2026-10-20
+
+- You are allowed to work from home this day
+- Bring a headset
 
 Start|What
 -----|-----
