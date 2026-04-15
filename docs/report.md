@@ -8,4 +8,4 @@
 
 ## Steps
 
-Logged in to Tetralith, logged in to Pelle, checked links for correct documentation, loggen in to Dardel.
+Logged in to Tetralith, logged in to Pelle, checked links for correct documentation, logged in to Dardel.
