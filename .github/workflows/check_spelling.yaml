@@ -16,11 +16,12 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
 
-      - uses: igsekor/pyspelling-any@v1.0.4
-
       - name: Instructions how to fix
         run: |
           echo "If the spelling error is valid, fix the spelling error."
           echo "If the spelling error is incorrect,"
           echo "add this word to the file '.wordlist' (in the project root):"
           echo "this is a whitelist/allowlist"
+
+      - uses: igsekor/pyspelling-any@v1.0.4
+
