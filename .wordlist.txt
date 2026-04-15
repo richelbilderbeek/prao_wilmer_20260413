@@ -61,6 +61,8 @@ HPC
 Todo
 Mimer
 friday
+Pelle
+Tetralith
 matplotlib
 seaborn
 NAISS
