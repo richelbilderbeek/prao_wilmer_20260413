@@ -18,7 +18,7 @@ jobs:
 
       - uses: igsekor/pyspelling-any@v1.0.4
 
-      - name: Instructions how to fix"
+      - name: Instructions how to fix
         run: |
           echo "If the spelling error is valid, fix the spelling error."
           echo "If the spelling error is incorrect,"
