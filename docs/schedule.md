@@ -80,11 +80,17 @@ Start|What
 
 ## Wednesday 2026-10-15
 
-- Where: [E10:2308](https://link.mazemap.com/jGeDVWFf)
+- Where: [D5:518b](https://link.mazemap.com/bsSDm7OG)
 
 Start|What
 -----|-----
-9:00 |Write down in report what has been done
+9:00 |[Write down in report what has been done](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/8)
+.    |[Accept the invite to this repo](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/9)
+.    |[Close issue if registered to AI meeting](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/4)
+.    |Check access to other HPC clusters, e.g. for [pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1)
+.    |Check access to other HPC clusters, needed for [checking `pandas` in the HPC Python course](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1), [`matplotlib`](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2), [`seaborn`](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3)
+.    |Check access to other HPC clusters, needed for [checking `pandas` in the HPC Python course](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1), [`matplotlib`](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2), [`seaborn`](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3)
+.    |[Document `pandas`, `matplotlib` and `seaborn` on UPPMAX documentation](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/5)
 10:00|Break
 10:15|Work on project
 11:00|Break
@@ -132,9 +138,9 @@ Start|What
 12:00|Break
 12:15|Work on project
 13:00|Break (Richel away)
-13:15|Work on project (Richel away)
+13:15|[Do the 'Basic Python' part of HPC Python Day 1](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/7) (Richel away)
 14:00|Break (Richel away)
-14:15|Work on project (Richel away)
+14:15|[Do the 'Basic Python' part of HPC Python Day 1](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/7) (Richel away)
 15:00|Break (Richel away)
 15:15|Work on project
 15:45|Informal reflection
