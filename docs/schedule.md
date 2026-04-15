@@ -6,9 +6,9 @@ Week|Date                               |Description
 ----|-----------------------------------|-----------
 16  |[2026-10-13](#monday-2026-10-13)   |Prepare
 .   |[2026-10-14](#tuesday-2026-10-14)  |Prepare teaching
-.   |[2026-10-15](#wednesday-2026-10-15)|.
-.   |[2026-10-16](#thursday-2026-10-16) |.
-.   |[2026-10-17](#friday-2026-10-17)   |. (Richel away from 13:00-15:00 morning)
+.   |[2026-10-15](#wednesday-2026-10-15)|Prepare teaching
+.   |[2026-10-16](#thursday-2026-10-16) |Prepare teaching: bring a headset!
+.   |[2026-10-17](#friday-2026-10-17)   |Prepare teaching: bring a headset! (Richel away from 13:00-15:00 morning)
 17  |[2026-10-20](#monday-2026-10-20)   |Assist teaching [NAISS 'Intro to HPC Python' Day 1](https://uppmax.github.io/naiss_intro_python/)
 .   |[2026-10-21](#tuesday-2026-10-21)  |Prepare or follow course (Richel away in the morning)
 .   |[2026-10-22](#wednesday-2026-10-22)|Assist teaching [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs), follow rest of course or second project
