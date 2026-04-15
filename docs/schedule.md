@@ -80,9 +80,11 @@ Start|What
 
 ## Wednesday 2026-10-15
 
+- Where: [E10:2308](https://link.mazemap.com/jGeDVWFf)
+
 Start|What
 -----|-----
-9:00 |Work on project
+9:00 |Write down in report what has been done
 10:00|Break
 10:15|Work on project
 11:00|Break
