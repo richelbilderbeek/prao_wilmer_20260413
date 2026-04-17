@@ -132,11 +132,11 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Work on project
+9:00 |Check how to load [pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1), [matplotlib](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2), [seaborn](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3) (Richel recording)
 10:00|Break
-10:15|Work on project
+10:15|Check how to load [pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1), [matplotlib](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2), [seaborn](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3) (Richel away)
 11:00|Break
-11:15|Work on project
+11:15|Check how to load [pandas](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/1), [matplotlib](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/2), [seaborn](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/3) (Richel away)
 12:00|Break
 12:15|.
 13:00|Break (Richel away)
@@ -144,7 +144,7 @@ Start|What
 14:00|Break (Richel away)
 14:15|[Do the 'Basic Python' part of HPC Python Day 1](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/7) (Richel away)
 15:00|Break (Richel away)
-15:15|Work on project
+15:15|[Prepare for online teaching](https://github.com/richelbilderbeek/prao_wilmer_20260413/issues/10)
 15:45|Informal reflection
 16:00|Done
 
