@@ -10,10 +10,10 @@ Week|Date                               |Description
 .   |[2026-10-16](#thursday-2026-10-16) |Prepare teaching: bring a headset!
 .   |[2026-10-17](#friday-2026-10-17)   |Prepare teaching: bring a headset! (Richel away from 13:00-15:00)
 17  |[2026-10-20](#monday-2026-10-20)   |Assist teaching [NAISS 'Intro to HPC Python' Day 1](https://uppmax.github.io/naiss_intro_python/)
-.   |[2026-10-21](#tuesday-2026-10-21)  |Follow course
-.   |[2026-10-22](#wednesday-2026-10-22)|Assist teaching [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs), follow rest of course
-.   |[2026-10-23](#thursday-2026-10-23) |AI meeting, follow course
-.   |[2026-10-24](#friday-2026-10-24)   |Try 16:00 NBIS Beer Club with parents
+.   |[2026-10-21](#tuesday-2026-10-21)  |Prepare for Day 3
+.   |[2026-10-22](#wednesday-2026-10-22)|Follow [NAISS 'Intro to HPC Python' Day 2](https://uppmax.github.io/HPC-python/schedule.html#day-2-packages-environments-and-using-compute-nodes)
+.   |[2026-10-23](#thursday-2026-10-23) |Assist teaching [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs), follow rest of course
+.   |[2026-10-24](#friday-2026-10-24)   |Follow [NAISS 'Intro to HPC Python' Day 4](https://uppmax.github.io/HPC-python/schedule.html#day-4-parallelism-gpus-and-machine-learning), 16:00 NBIS Beer Club with parents
 
 ## Detailed schedule
 
@@ -162,51 +162,6 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Follow HPC Python course (Richel away)
-12:00|Break
-13:00|Follow HPC Python course
-16:00|Done
-
-## Wednesday 2026-10-22
-
-Start|What
------|-----
-9:00 |Help teach [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs)
-12:00|Break
-12:15|Work on project
-13:00|Break
-13:15|Work on project
-14:00|Break
-14:15|Work on project
-15:00|Break
-15:15|Work on project
-15:45|Informal reflection
-16:00|Done
-
-## Thursday 2026-10-23
-
-Start|What
------|-----
-9:00 |AI Factory Mimer kick-off
-10:00|Break
-10:15|AI Factory Mimer kick-off
-11:00|Break
-11:15|AI Factory Mimer kick-off
-12:00|Break
-12:15|Work on project
-13:00|Break
-13:15|Work on project
-14:00|Break
-14:15|Work on project
-15:00|Break
-15:15|Work on project
-15:45|Informal reflection
-16:00|Done
-
-## Friday 2026-10-24
-
-Start|What
------|-----
 9:00 |Work on project
 10:00|Break
 10:15|Work on project
@@ -222,3 +177,33 @@ Start|What
 15:15|Work on project
 15:45|Informal reflection
 16:00|Done
+
+## Wednesday 2026-10-22
+
+Start|What
+-----|-----
+9:00 |Follow [NAISS 'Intro to HPC Python' Day 2](https://uppmax.github.io/HPC-python/schedule.html#day-2-packages-environments-and-using-compute-nodes)
+16:00|Done
+
+## Thursday 2026-10-23
+
+Start|What
+-----|-----
+9:00 |Help teach [NAISS 'Intro to HPC Python' Day 3](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs)
+12:00|Break
+12:15|Work on project
+13:00|Break
+13:15|Work on project
+14:00|Break
+14:15|Work on project
+15:00|Break
+15:15|Work on project
+15:45|Informal reflection
+16:00|Done
+
+## Friday 2026-10-24
+
+Start|What
+-----|-----
+9:00 |Follow [NAISS 'Intro to HPC Python' Day 4](https://uppmax.github.io/HPC-python/schedule.html#day-3-basic-analysis-big-data-and-batch-jobs)
+16:00|Evaluation at Navet, 3rd floor
