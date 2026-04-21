@@ -8,4 +8,4 @@
 
 ## Steps
 
-Logged in to Tetralith, logged in to Pelle, checked links for correct documentation, logged in to Dardel, logged in to COSMOS, taught hpc python course day 1.
+Logged in to Tetralith, logged in to Pelle, checked links for correct documentation, logged in to Dardel, logged in to COSMOS, taught HPC python course day 1.
