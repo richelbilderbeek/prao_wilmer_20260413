@@ -10,4 +10,5 @@
 
 Logged in to Tetralith, logged in to Pelle, checked links for correct documentation, logged in to Dardel, logged in to COSMOS, taught HPC python course day 1.
 
-HPC Python Day 2: Loading packages, teaching was similar to day 1.
+HPC Python Day 2: 
+Interactive jobs, Birgitte Brydsö was speaking and showing how to do interactive jobs on other nodes than the login node.
