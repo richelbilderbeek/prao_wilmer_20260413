@@ -42,15 +42,6 @@
   Two people misinterpreted his non-sharing of
   emotions as being not interested in the job. I think such an
   incorrect first impression is unhelpful
-- Wilmer can give a better impression in general:
-  taking a look at [his report](report.md), at 'What did I do I well?',
-  he wrote '...'. This may signal that Wilmer is either humble, does
-  not know his qualities or both. Without the need to lie or exaggerate,
-  there are plenty of things he can write down there (he can use this
-  text as an example).
-  I think such an incorrect general impression is unhelpful: people
-  do want his skills and they need help to find him, so it would be
-  more helpful if these skills are shared :+1:
 
 In conclusion:
 
